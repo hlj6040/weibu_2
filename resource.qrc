@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ditu">
+        <file>ditu/ditu.html</file>
+        <file>ditu/qwebchannel.js</file>
+    </qresource>
+</RCC>
